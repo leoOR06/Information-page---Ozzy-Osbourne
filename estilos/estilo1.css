@@ -1,0 +1,129 @@
+* {
+	padding: 0;
+	margin: 0;
+  }
+
+
+  header{
+	background: rgba(0,0,0,0.9);
+  width: 100%;
+  position: relative;
+  z-index: 100;
+  }
+
+
+
+.encabezado {
+  background-color:black;
+  width: 100%;
+  text-align: center;
+  border-bottom: 4px solid rgb(131, 48, 48);
+}
+.princcont{
+	width: 100%;
+	margin: auto;
+	overflow:hidden;
+}
+nav{
+	text-align: center;
+	background-color: rgba(68, 23, 23, 0.815);
+}
+
+.lista{
+	margin-top: auto;
+}
+
+nav ul{
+	list-style: none;
+	overflow: hidden;
+	display: inline-block;
+	font-size: 0;
+	text-align: center;
+
+	
+}
+
+nav ul li{
+	float: left;
+  font-size: calc(1.5em + 1.5vw);
+
+}
+
+nav ul li a {
+	display: block; 
+	padding: 14px;
+	color:white;
+	text-decoration: none;
+}
+nav ul li:hover {
+	cursor: pointer;
+	background: rgb(131, 48, 48);
+}
+
+
+
+
+
+/*haqui termina el encabezado*/
+
+.contenedorprincipal {
+	background-color: rgb(224, 199, 194);
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.imglogo{
+	width: 27%;
+	height: 27%;
+}
+
+
+
+
+footer{
+	margin-top: 10px;
+    margin-bottom: 10px;
+    width:100%;
+    height: auto;
+    background:black;
+    float:left;
+    text-align: center;
+    line-height: 50px;
+	
+}
+
+
+footer p{
+	color: cornsilk;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+
+
+
+.nombre{
+	text-align: center;
+	width: 100%;
+	margin-top: auto;
+	height: 70%;
+}
+
+.cruz{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	margin-top: auto;
+	height: 30%;
+}
+.cruzoz{
+	width: 8%;
+	height: 8%;
+	
+}
+
+form,p,h1,h2,h3,li,th,td{
+	font-family: Garamond;
+}

@@ -1,0 +1,52 @@
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: lavender;
+}
+
+ol{
+	width: 98%;
+    margin-left: auto;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ol li{
+    background-color:rgba(131, 48, 48, 0.459);
+    width: 75%;
+}
+
+article{
+    text-align: center;
+}
+
+.discos{
+    width: 50%;
+    height: 50%;
+}
+
+article p{
+    width: 95%;
+    margin-left: auto;
+margin-right: auto;
+text-align: center;
+    text-align:justify;
+    padding: 1%;
+}
+.hrprincipal{
+    border:1%;
+	height: 2px;
+	background-color: darkslategray;
+}
+
+.texto{
+    font-weight: bolder;
+}
+
+li p{
+    color: rgb(209, 228, 228);
+}

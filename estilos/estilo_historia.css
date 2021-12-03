@@ -1,0 +1,48 @@
+.contimagen{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+
+.imgprincipal{
+    width:30%;
+    height: 30%;
+}
+
+article p{
+    padding: 0.5%;
+   text-align: center;
+    text-align:justify;
+    width: 80%;
+    margin-left: auto;
+margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+article hr{
+    border:1%;
+	height: 2px;
+	background-color: darkslategray;
+
+}
+
+.divozface{
+    text-align: center;
+}
+.ozface{
+    width: 40%;
+    height: 40%;
+}
+main hr{
+    border:1%;
+	height: 2px;
+	background-color: darkslategray;
+}

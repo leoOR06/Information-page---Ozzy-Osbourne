@@ -1,0 +1,70 @@
+h1{
+  text-align: center;
+}
+  form{
+    margin: 0 auto;
+    text-align: center;
+  width:40%;
+    background-color:rgb(216, 105, 105);
+    min-width:255px;
+
+
+   border-radius: 10px;
+    border: 1px solid #666666;
+    
+    }
+
+
+form input{
+  width:35%
+}
+
+
+hr{
+  border:1%;
+	height: 2px;
+	background-color: darkslategray;
+}
+    
+.facebook{
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+.twitter{
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+.instagram{
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+.youtube{
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+
+.redes{
+  width: 50%;
+  height: 50%;
+}
+ 
+h2{
+  text-align: center;
+}
+
+.abajo{
+  width: 14%;
+  height: 14%;
+}
+
+.aqui{
+  text-align: center;
+}

@@ -1,0 +1,61 @@
+.textart{
+	width: 57.5%;
+	float: left;
+    justify-content: center;
+    align-items: center;
+	text-align: justify;
+	padding-left: 1.5%;
+	margin-left: 1%;
+}
+
+.textart p{
+	padding: 1%;
+	
+}
+main h1{
+	text-align: center;
+}
+
+main h3{
+	text-align: center;
+}
+article ul{
+	width: 87%;
+	margin-left: 4%;
+	padding-left: 8%;
+	padding-right: 1%;
+	
+}
+article ul li{
+	text-align: justify;
+	padding: 1%;
+	
+}
+main hr{
+	border:1%;
+	height: 2px;
+	background-color: darkslategray;
+
+}
+
+.imgaside{
+	/*este es el de el tamaño de la imagen*/
+	width:99%;
+	height: 99%;
+}
+
+
+
+
+
+.imgasi{
+	/*este es el contenedor de la imagen*/
+	background-color: #B3B3B3;
+	width: 36%;
+	padding-left: 2%;
+	padding-bottom: auto;
+	float: right;
+	text-align: center;
+	margin-left: 2%;
+}
+

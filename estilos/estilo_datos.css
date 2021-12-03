@@ -1,0 +1,115 @@
+article{
+   
+    width: 100%
+}
+
+
+article p{
+padding: 1%;
+text-align: center;
+text-align: justify;
+color: rgb(34, 32, 28);
+margin-left: auto;
+margin-right: auto;
+width: 70%;
+}
+
+.tituloh2{
+    color: blanchedalmond;
+    background-color: darkgray;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.divenf p{
+    padding: 1%;
+text-align: center;
+text-align: justify;
+color: rgb(34, 32, 28);
+margin-left: auto;
+margin-right: auto;
+width: 70%;
+}
+
+
+
+.divenf{
+
+ 
+    width: 100%;
+    text-align: center;
+    
+    
+}
+
+.ultimo{
+    
+    width: 100%;
+    
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+embed{
+    width: 60%;
+    display: block;
+    min-width: 340px;
+    min-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    
+}
+
+audio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgparkinson{
+    width: 60%;
+    height: 60%;
+    max-width: 300px;
+    min-width: 300px;
+}
+
+.textop{
+padding: 1%;
+text-align: center;
+text-align: justify;
+width: 70%;
+margin-left: auto;
+margin-right: auto;
+}
+
+h3{
+    text-align: center;
+    color: rgb(119, 35, 35);
+}
+
+.imgcrowley{
+    width: 65%;
+    height: 65%;
+    max-width: 300px;
+    min-width: 300px;
+}
+
+main hr{
+    border:1%;
+	height: 2px;
+	background-color: darkslategray;
+}
+
+audio{
+ width: 40%;
+ 
+}
+
